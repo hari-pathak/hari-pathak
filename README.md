@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Hari Pathak Chhetri
 A passonate MERN Stack Developer From Nepal
-Skills: HTML, CSS
+Skills: HTML, CSS, JavaScript
 
 <!--
 **hari-pathak/hari-pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
