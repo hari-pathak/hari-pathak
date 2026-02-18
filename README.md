@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="hari-pathak" /> </p>
 
-- 💬 Ask me about **MERN, Tailwind, Next JS**
+- 💬 Ask me about **MERN, Tailwind**
 
 - 📫 How to reach me **pathakhari496@gmail.com**
 
